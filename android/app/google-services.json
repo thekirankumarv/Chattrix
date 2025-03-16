@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385114327987",
+    "firebase_url": "https://chattrix-application-default-rtdb.firebaseio.com",
+    "project_id": "chattrix-application",
+    "storage_bucket": "chattrix-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385114327987:android:ea771a2c81e4820c1f19c6",
+        "android_client_info": {
+          "package_name": "com.chattrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385114327987-bgqamu9of9il46b8kk9dgretj4l1e5ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chattrix",
+            "certificate_hash": "b6373da7ef19ed429aac34558e74e58468538a26"
+          }
+        },
+        {
+          "client_id": "385114327987-tidispbk6pljkvpt7gfdnadgb0avhff4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKa-QNWIGGOZmYokOi_BpLi9epqmbi7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385114327987-tidispbk6pljkvpt7gfdnadgb0avhff4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
